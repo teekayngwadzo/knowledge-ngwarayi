@@ -1,6 +1,6 @@
 package zw.co.econet.area.service;
 
-import zw.co.econet.assessment.area.Area;
+import zw.co.econet.area.Area;
 
 import java.util.List;
 import java.util.Optional;
