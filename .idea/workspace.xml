@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d89f541-4c98-4b73-b791-fec2a10871d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ERD Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/AssessmentApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/assessment-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/assessment-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/assessment-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/assessment-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/area/repository/AreaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/area/repository/AreaRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/area/rest/AreaRestApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/area/rest/AreaRestApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/area/service/AreaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/area/service/AreaService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/area/service/AreaServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/area/service/AreaServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/repository/ShopRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/repository/ShopRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/rest/ShopRestApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/rest/ShopRestApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/service/ShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/service/ShopService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/service/ShopServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/service/ShopServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,8 +63,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="289">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -89,36 +81,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="551">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-composes.yml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/AssessmentApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="221">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="153">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -126,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="238">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding>
                 <element signature="e#1051#1052#0" expanded="true" />
               </folding>
@@ -147,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="102">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -156,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#804#805#0" expanded="true" />
                 <element signature="e#843#844#0" expanded="true" />
@@ -187,9 +174,13 @@
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/assessment/area/AreaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/assessment/shop/ShopTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java" />
       </list>
     </option>
   </component>
@@ -330,6 +321,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -346,7 +344,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -354,11 +352,15 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/zw/co/econet" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="zw.co.econet" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="zw.co.econet" />
       <recent name="zw.co.econet.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/zw/co/econet" />
@@ -396,7 +398,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675341979199</updated>
-      <workItem from="1675341987757" duration="3867000" />
+      <workItem from="1675341987757" duration="5541000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1675342117293</created>
@@ -447,15 +449,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675343568313</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add docker and ERD diagram">
+      <created>1675345958823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675345958823</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Shops must be saved in uppercase">
+      <created>1675346320934</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675346320934</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3867000" />
+    <option name="totallyTimeSpent" value="5541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1011" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -463,11 +478,11 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" weight="0.32914287" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.552" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.552" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
@@ -477,7 +492,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Debug with VisualVM" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914287" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.55314285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -504,7 +519,9 @@
     <MESSAGE value="Update area package" />
     <MESSAGE value="Add shop repository and service" />
     <MESSAGE value="Add script.sql to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add script.sql to project" />
+    <MESSAGE value="Add docker and ERD diagram" />
+    <MESSAGE value="Shops must be saved in uppercase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shops must be saved in uppercase" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/common/BusinessRuntimeException.java">
@@ -558,13 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/Shop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -593,24 +603,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java">
+    <entry file="file://$PROJECT_DIR$/docker-composes.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="14" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="e#804#805#0" expanded="true" />
             <element signature="e#843#844#0" expanded="true" />
@@ -620,8 +651,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="238">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
             <element signature="e#1051#1052#0" expanded="true" />
           </folding>
@@ -630,16 +661,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="551">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-composes.yml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/AssessmentApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

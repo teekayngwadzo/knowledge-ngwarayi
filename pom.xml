@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>zw.co.econet</groupId>
-    <artifactId>assessment</artifactId>
+    <artifactId>zw.co.econet.assessment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>assessment</name>
+    <name>zw.co.econet.assessment</name>
     <description>Econet Project</description>
     <properties>
         <java.version>11</java.version>
