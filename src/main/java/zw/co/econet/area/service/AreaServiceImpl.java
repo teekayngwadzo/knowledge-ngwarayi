@@ -5,6 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import zw.co.econet.area.Area;
 import zw.co.econet.area.repository.AreaRepository;
+import zw.co.econet.common.BusinessRuntimeException;
 
 import java.util.List;
 import java.util.Optional;
@@ -17,6 +18,11 @@ public class AreaServiceImpl implements AreaService {
 
     @Override
     public Optional<Area> save(Area area) {
+        var savedName = areaRepository.findByName(area.getName());
+
+        if (savedName.isPresent())
+            throw new BusinessRuntimeException("Area with name" + area.getName() + " already Exist");
+
         return Optional.ofNullable(areaRepository.save(area));
     }
 

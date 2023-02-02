@@ -28,6 +28,7 @@ public class ShopRestApi {
     public ApiResponse<Shop> saveShop(@PathVariable(value = "areaId") Long areaId, @RequestBody Shop shop) {
         var area = areaRepository.findById(areaId).orElseThrow(() -> new BusinessRuntimeException("Area Not Found"));
         shop.setArea(area);
+        shop.setName(shop.getName().toUpperCase());
         Optional<Shop> optionalShop = shopService.save(shop);
         shop = optionalShop.orElseThrow(() -> new BusinessRuntimeException("Internal Error Occurred While Creating Invoice"));
         return new ApiResponse<>(HttpStatus.OK.value(), "Transaction Processed Successfully", shop);
