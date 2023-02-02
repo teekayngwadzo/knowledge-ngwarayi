@@ -3,6 +3,7 @@ zw/co/econet/common/BusinessRuntimeException.class
 zw/co/econet/area/repository/AreaRepository.class
 zw/co/econet/shop/service/ShopServiceImp.class
 zw/co/econet/shop/Shop.class
+zw/co/econet/config/SwaggerConfig.class
 zw/co/econet/common/ApiResponse.class
 zw/co/econet/AssessmentApplication.class
 zw/co/econet/area/service/AreaServiceImpl.class

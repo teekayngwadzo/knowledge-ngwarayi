@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d89f541-4c98-4b73-b791-fec2a10871d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/AssessmentApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/econet-shops-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/zw/co/econet/assessment/AssessmentApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/zw/co/econet/assessment/area/AreaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/zw/co/econet/assessment/shop/ShopTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-composes.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/assessment-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/econet-shops-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/assessment-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/area/service/AreaServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/area/service/AreaServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/rest/ShopRestApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/rest/ShopRestApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,24 +75,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="551">
@@ -92,7 +88,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -102,10 +98,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/config/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-spi/3.0.0/springfox-spi-3.0.0.jar!/springfox/documentation/spi/DocumentationType.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="187">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -118,24 +141,6 @@
               <folding>
                 <element signature="e#1051#1052#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="18" selection-start-line="12" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -155,6 +160,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>swagger</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -162,9 +172,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/common/ApiResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/AssessmentApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/Shop.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
@@ -181,6 +189,9 @@
         <option value="$PROJECT_DIR$/src/test/java/assessment/area/AreaTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/assessment/shop/ShopTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -192,9 +203,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="460" />
     <option name="y" value="27" />
-    <option name="width" value="1440" />
+    <option name="width" value="1920" />
     <option name="height" value="1011" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -244,7 +254,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="area" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
@@ -253,67 +263,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="area" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="area" type="462c0819:PsiDirectoryNode" />
-              <item name="rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="area" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
@@ -327,6 +277,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assessment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assessment" type="462c0819:PsiDirectoryNode" />
+              <item name="area" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -356,8 +323,8 @@
       <recent name="zw.co.econet" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="zw.co.econet" />
       <recent name="zw.co.econet.config" />
+      <recent name="zw.co.econet" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
@@ -379,7 +346,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.AreaTest.save_WhenApiResponseStatusIsNotOk_ThrowBusinessException">
+    <configuration name="AreaTest.save_WhenApiResponseStatusIsNotOk_ThrowBusinessException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="knowledge-ngwarayi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zw.co.econet.assessment.area.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zw.co.econet.assessment.area" />
+      <option name="MAIN_CLASS_NAME" value="zw.co.econet.assessment.area.AreaTest" />
+      <option name="METHOD_NAME" value="save_WhenApiResponseStatusIsNotOk_ThrowBusinessException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AssessmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="knowledge-ngwarayi" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="zw.co.econet.AssessmentApplication" />
@@ -387,6 +370,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AreaTest.save_WhenApiResponseStatusIsNotOk_ThrowBusinessException" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -398,7 +386,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675341979199</updated>
-      <workItem from="1675341987757" duration="5541000" />
+      <workItem from="1675341987757" duration="7516000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1675342117293</created>
@@ -463,11 +451,23 @@
       <option name="project" value="LOCAL" />
       <updated>1675346320934</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Test cases">
+      <created>1675347553122</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675347553122</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AreaTest_save_WhenApiResponseStatusIsNotOk_ThrowBusinessException - 2023.02.02 at 16h 46m 09s.xml">
+      <configuration name="AreaTest.save_WhenApiResponseStatusIsNotOk_ThrowBusinessException" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5541000" />
+    <option name="totallyTimeSpent" value="7516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1011" extended-state="6" />
@@ -485,7 +485,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.552" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32914287" />
       <window_info anchor="bottom" id="Run with VisualVM" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -521,16 +521,14 @@
     <MESSAGE value="Add script.sql to project" />
     <MESSAGE value="Add docker and ERD diagram" />
     <MESSAGE value="Shops must be saved in uppercase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shops must be saved in uppercase" />
+    <MESSAGE value="Test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test cases" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/common/BusinessRuntimeException.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/common/ApiResponse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/AssessmentApplication.java">
@@ -544,13 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
@@ -669,17 +660,45 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/AssessmentApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-spi/3.0.0/springfox-spi-3.0.0.jar!/springfox/documentation/spi/DocumentationType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.6.4/spring-data-commons-2.6.4.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
