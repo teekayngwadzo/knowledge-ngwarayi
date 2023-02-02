@@ -7,5 +7,5 @@ import java.util.List;
 
 public interface ShopRepository extends JpaRepository<Shop, Long> {
 
-    List<Shop> findByArea(String area);
+    List<Shop> findByArea_Name(String area);
 }

@@ -9,8 +9,7 @@ access the system using the url :   http://localhost:3088/econet/area  either fr
 
 ####Video Link #######
 
-https://drive.google.com/drive/folders/1fdUCsviEBEBnVVL0RDMLO29oVldy8VS4?usp=sharing
-
+https://drive.google.com/file/d/1A_brLF6YIsDMyX-nBUcxCd9bQpdcfWou/view?usp=sharing
 
 
 ################## GET AREAS ##########################

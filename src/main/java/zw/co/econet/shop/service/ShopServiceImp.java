@@ -30,7 +30,7 @@ public class ShopServiceImp implements ShopService {
         var byArea = areaService.findByName(area);
 
         if (byArea.isPresent())
-            return repository.findByArea(area);
+            return repository.findByArea_Name(area);
 
         throw new BusinessRuntimeException("Area name " + area + " not Found");
     }

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d89f541-4c98-4b73-b791-fec2a10871d8" name="Default Changelist" comment="" />
+    <list default="true" id="4d89f541-4c98-4b73-b791-fec2a10871d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/repository/ShopRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/repository/ShopRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/service/ShopServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zw/co/econet/shop/service/ShopServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/econet-shops-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/econet-shops-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/econet-shops-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/econet-shops-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <list id="0789928f-cb85-4226-948c-eb22483a3798" name="Revert: Swagger config..." comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,20 +65,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/AssessmentApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/shop/ShopTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -114,14 +109,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="374">
+              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
               <folding>
+                <element signature="e#1008#1009#0" expanded="true" />
                 <element signature="e#1051#1052#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="187">
+                <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -130,17 +138,24 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1785" />
           </provider>
         </entry>
       </file>
@@ -164,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java" />
@@ -178,6 +192,9 @@
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/zw/co/econet/assessment/area/AreaTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -205,6 +222,11 @@
             <path>
               <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
               <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
@@ -249,6 +271,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="econet" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="econet" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
@@ -323,8 +355,8 @@
       <recent name="zw.co.econet" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/zw/co/econet" />
       <recent name="$PROJECT_DIR$/src/main" />
@@ -454,7 +486,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675347553122</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Read me file">
+      <created>1675351223423</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675351223423</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Read me file nd gitignore">
+      <created>1675351315918</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675351315918</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Read me file nd gitignore">
+      <created>1675351497209</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675351497209</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -463,12 +516,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7623000" />
+    <option name="totallyTimeSpent" value="9662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1011" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -485,7 +538,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.32914287" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.552" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.552" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
@@ -534,7 +587,9 @@
     <MESSAGE value="Add docker and ERD diagram" />
     <MESSAGE value="Shops must be saved in uppercase" />
     <MESSAGE value="Test cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test cases" />
+    <MESSAGE value="Read me file" />
+    <MESSAGE value="Read me file nd gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read me file nd gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/common/BusinessRuntimeException.java">
@@ -582,13 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -642,16 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding>
-            <element signature="e#1051#1052#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -701,6 +739,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
