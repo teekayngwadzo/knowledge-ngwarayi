@@ -29,4 +29,9 @@ public class AreaServiceImpl implements AreaService {
     public List<Area> findAll() {
         return areaRepository.findAll();
     }
+
+    @Override
+    public Optional<Area> findByName(String name) {
+        return areaRepository.findByName(name);
+    }
 }

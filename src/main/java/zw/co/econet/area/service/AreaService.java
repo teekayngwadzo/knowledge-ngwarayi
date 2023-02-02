@@ -14,6 +14,7 @@ public interface AreaService {
 
     Optional<Area> findById(Long id);
 
+    Optional<Area> findByName(String name);
 
 
 }

@@ -11,4 +11,6 @@ public interface ShopService {
 
 
     List<Shop> findAll();
+
+    List<Shop> findShopByArea(String area);
 }

@@ -42,5 +42,12 @@ public class ShopRestApi {
 
     }
 
+    @GetMapping("/{name}")
+    public ApiResponse<List<Shop>> findShopsByAreaName(@PathVariable("name") String name) {
+        List<Shop> shops = shopService.findShopByArea(name);
+        return new ApiResponse<>(HttpStatus.OK.value(), "Transaction Processed Successfully", shops);
+
+    }
+
 
 }

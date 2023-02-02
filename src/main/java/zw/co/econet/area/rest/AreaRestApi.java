@@ -1,6 +1,7 @@
 package zw.co.econet.area.rest;
 
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
@@ -14,6 +15,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/area")
+@Slf4j
 public class AreaRestApi {
 
     @Autowired
@@ -21,7 +23,8 @@ public class AreaRestApi {
 
 
     @PostMapping
-    public ApiResponse<Area> saveArea(Area area) {
+    public ApiResponse<Area> saveArea(@RequestBody Area area) {
+        log.info("Area to be saved {}", area);
         Optional<Area> optionalArea = service.save(area);
         area = optionalArea.orElseThrow(() -> new BusinessRuntimeException("Internal Error Occurred While Creating Area"));
         return new ApiResponse<>(HttpStatus.OK.value(), "Transaction Processed Successfully", area);
@@ -30,7 +33,7 @@ public class AreaRestApi {
 
 
     @GetMapping
-    public ApiResponse<List<Area>> findAllShops() {
+    public ApiResponse<List<Area>> findAllAreas() {
         List<Area> areas = service.findAll();
         return new ApiResponse<>(HttpStatus.OK.value(), "Transaction Processed Successfully", areas);
     }
