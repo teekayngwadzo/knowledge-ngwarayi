@@ -1,0 +1,13 @@
+zw/co/econet/shop/rest/ShopRestApi.class
+zw/co/econet/common/BusinessRuntimeException.class
+zw/co/econet/area/repository/AreaRepository.class
+zw/co/econet/shop/service/ShopServiceImp.class
+zw/co/econet/shop/Shop.class
+zw/co/econet/common/ApiResponse.class
+zw/co/econet/AssessmentApplication.class
+zw/co/econet/area/service/AreaServiceImpl.class
+zw/co/econet/area/Area.class
+zw/co/econet/shop/repository/ShopRepository.class
+zw/co/econet/shop/service/ShopService.class
+zw/co/econet/area/service/AreaService.class
+zw/co/econet/area/rest/AreaRestApi.class
