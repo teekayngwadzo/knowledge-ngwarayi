@@ -1,4 +1,4 @@
-package zw.co.econet.assessment.area.service;
+package zw.co.econet.area.service;
 
 import zw.co.econet.assessment.area.Area;
 

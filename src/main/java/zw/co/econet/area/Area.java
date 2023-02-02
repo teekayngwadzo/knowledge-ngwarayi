@@ -1,4 +1,4 @@
-package zw.co.econet.assessment.area;
+package zw.co.econet.area;
 
 
 import lombok.Data;

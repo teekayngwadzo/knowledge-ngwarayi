@@ -1,4 +1,4 @@
-package zw.co.econet.assessment.area.repository;
+package zw.co.econet.area.repository;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

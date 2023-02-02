@@ -1,10 +1,10 @@
-package zw.co.econet.assessment.area.service;
+package zw.co.econet.area.service;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import zw.co.econet.assessment.area.Area;
-import zw.co.econet.assessment.area.repository.AreaRepository;
+import zw.co.econet.area.repository.AreaRepository;
 
 import java.util.List;
 import java.util.Optional;

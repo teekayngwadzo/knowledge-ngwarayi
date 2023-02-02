@@ -1,11 +1,11 @@
-package zw.co.econet.assessment.area.rest;
+package zw.co.econet.area.rest;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import zw.co.econet.assessment.area.Area;
-import zw.co.econet.assessment.area.service.AreaService;
+import zw.co.econet.area.service.AreaService;
 import zw.co.econet.assessment.common.ApiResponse;
 import zw.co.econet.assessment.common.BusinessRuntimeException;
 import zw.co.econet.assessment.shop.Shop;
