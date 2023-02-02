@@ -2,7 +2,7 @@ package zw.co.econet.shop;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import lombok.Data;
-import zw.co.econet.assessment.area.Area;
+import zw.co.econet.area.Area;
 
 import javax.persistence.*;
 

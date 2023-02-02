@@ -4,7 +4,7 @@ package zw.co.econet.area;
 import lombok.Data;
 import org.hibernate.annotations.LazyCollection;
 import org.hibernate.annotations.LazyCollectionOption;
-import zw.co.econet.assessment.shop.Shop;
+import zw.co.econet.shop.Shop;
 
 import javax.persistence.*;
 import java.util.ArrayList;

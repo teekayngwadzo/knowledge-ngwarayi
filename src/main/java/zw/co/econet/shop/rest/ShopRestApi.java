@@ -4,11 +4,11 @@ package zw.co.econet.shop.rest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import zw.co.econet.assessment.area.repository.AreaRepository;
-import zw.co.econet.assessment.common.ApiResponse;
-import zw.co.econet.assessment.common.BusinessRuntimeException;
-import zw.co.econet.assessment.shop.Shop;
-import zw.co.econet.assessment.shop.service.ShopService;
+import zw.co.econet.area.repository.AreaRepository;
+import zw.co.econet.common.ApiResponse;
+import zw.co.econet.common.BusinessRuntimeException;
+import zw.co.econet.shop.Shop;
+import zw.co.econet.shop.service.ShopService;
 
 import java.util.List;
 import java.util.Optional;

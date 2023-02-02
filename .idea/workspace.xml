@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d89f541-4c98-4b73-b791-fec2a10871d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,11 +31,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="63">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/Shop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -74,6 +111,12 @@
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/service/AreaServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/repository/AreaRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/shop/Shop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java" />
       </list>
     </option>
   </component>
@@ -146,7 +189,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="area" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="econet" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -156,8 +208,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="econet" type="462c0819:PsiDirectoryNode" />
-              <item name="area" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge-ngwarayi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="econet" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="knowledge-ngwarayi" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +238,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/zw/co/econet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -224,7 +286,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675341979199</updated>
-      <workItem from="1675341987757" duration="1122000" />
+      <workItem from="1675341987757" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1675342117293</created>
@@ -247,14 +309,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675342984993</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update area package">
+      <created>1675343126452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675343126452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add shop repository and service">
+      <created>1675343212265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675343212265</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1122000" />
+    <option name="totallyTimeSpent" value="1383000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="844" y="112" width="1010" height="758" extended-state="0" />
+    <frame x="0" y="27" width="1920" height="1011" extended-state="6" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -262,10 +338,10 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48547718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.8858521" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.39314285" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -296,7 +372,9 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Area and services" />
     <MESSAGE value="Create common classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create common classes" />
+    <MESSAGE value="Update area package" />
+    <MESSAGE value="Add shop repository and service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add shop repository and service" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/common/BusinessRuntimeException.java">
@@ -345,8 +423,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/rest/AreaRestApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="63">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/repository/ShopRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/service/ShopService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/rest/ShopRestApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/shop/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zw/co/econet/area/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>

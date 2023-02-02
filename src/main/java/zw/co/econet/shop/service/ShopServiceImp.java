@@ -2,8 +2,8 @@ package zw.co.econet.shop.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import zw.co.econet.assessment.shop.Shop;
-import zw.co.econet.assessment.shop.repository.ShopRepository;
+import zw.co.econet.shop.Shop;
+import zw.co.econet.shop.repository.ShopRepository;
 
 import java.util.List;
 import java.util.Optional;
